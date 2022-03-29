@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 💬 Thanks to my specialized training I believe that I can add value in the area in which I develop, able to adapt to changes and constantly learning about new tendencies; organized and with great motivation to give the best of me in any project or task pointed.
 
+```js
+  const boris = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "TypeScript", "CSS", "Python", "PHP", "HTML", "SQL"]
+  }
+```
+
 - 👯 I’m looking to collaborate on projects of development front y back
 - 🔭 I’m currently working as a freelance
 <button>Hola</button>
