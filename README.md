@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ```js
   const boris = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "CSS", "Python", "PHP", "HTML", "SQL"]
+    code: ["JavaScript", "TypeScript", "CSS", "Python", "PHP", "HTML", "SQL"],
+    tools: ["React", "Angular", "Node", "WordPress", "Vercel"]
   }
 ```
 
