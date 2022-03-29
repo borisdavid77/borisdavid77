@@ -21,10 +21,11 @@ Here are some ideas to get you started:
   const boris = {
     pronouns: "he" | "him",
     code: ["JavaScript", "TypeScript", "CSS", "Python", "PHP", "HTML", "SQL"],
-    tools: ["React", "Angular", "Node", "WordPress", "Vercel"]
+    tools: ["React", "Angular", "Node", "WordPress", "Vercel"],
+    certificactions: ["FreeCodeCamp", "Udemy"]
   }
 ```
 
 - 👯 I’m looking to collaborate on projects of development front y back
 - 🔭 I’m currently working as a freelance
-<button>Hola</button>
+- 💬 Ask me about ... 
