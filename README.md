@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   }
 ```
 
-- 👯 I’m looking to collaborate on projects of development front y back
+- 👯 I’m looking to collaborate on projects of development frontend y backend
 - 🔭 I’m currently working as a freelance
 - 💬 Ask me about ... 
