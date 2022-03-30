@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   const boris = {
     pronouns: "he" | "him",
     code: ["JavaScript", "TypeScript", "CSS", "Python", "PHP", "HTML", "SQL"],
-    tools: ["React", "Angular", "Node", "WordPress", "Vercel"],
+    tools: ["React", "Angular", "Node", "WordPress", "Git"],
     certificactions: ["FreeCodeCamp", "Udemy"]
   }
 ```
