@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ```js
   const boris = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "CSS", "Python", "PHP", "HTML", "SQL"],
-    tools: ["React", "Angular", "Node", "WordPress", "Git"],
+    code: ["JavaScript", "C#", "CSS", "Python", "PHP", "HTML", "SQL"],
+    tools: ["React", "NextJS", "Node", "WordPress", "Git", ".Net"],
     certificactions: ["FreeCodeCamp", "Udemy"]
   }
 ```
