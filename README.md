@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     pronouns: "he" | "him",
     code: ["JavaScript", "C#", "CSS", "Python", "PHP", "HTML", "SQL"],
     tools: ["React", "NextJS", "Node", "WordPress", "Git", ".Net"],
-    certificactions: ["FreeCodeCamp", "Udemy"]
+    certificactions: ["FreeCodeCamp", "Udemy", "Microsoft"]
   }
 ```
 
