@@ -21,7 +21,7 @@
 <h2>Languajes and Tools</h2>
 <img src="https://img.shields.io/badge/html5-orange?logo=html5&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/css3-blue?logo=css3&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/javascript-gray?logo=javascript&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/c%23-blueviolet?logo=csharp&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/java-blue?logo=java&style=for-the-badge" />
 
