@@ -9,7 +9,7 @@
 -->
 
 <ul>
-    <li>🔭 I’m currently working on Design Reublik</li>
+    <li>🔭 I’m currently working on Design Republik</li>
     <li>🌱 I’m currently learning as much as I can</li>
     <li>🎯 2023 Goals: Improve my Frontend skills</li>
 </ul>
