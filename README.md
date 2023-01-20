@@ -29,7 +29,17 @@
 <img src="https://img.shields.io/badge/react-gray?logo=react&style=for-the-badge"/>
 <img src="https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"/>
 <img src="https://img.shields.io/badge/anguar-red?logo=angular&style=for-the-badge" />
+    
+<h2>Databases</h2>
+<img src="https://img.shields.io/badge/mysql-white?logo=mysql&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sql%20server-red?logo=microsoftsqlserver&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/postgresql-blue?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/mongodb-green?logo=mongodb&logoColor=white&style=for-the-badge" />
 
+<h2>CMS</h2>
+<img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress&logoColor=white&style=for-the-badge"/>
+
+    
 <p>💬 Thanks to my specialized training I believe that I can add value in the area in which I develop, able to adapt to changes and constantly learning about new tendencies; organized and with great motivation to give the best of me in any project or task pointed.</p>
 
 ```js
