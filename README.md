@@ -1,25 +1,23 @@
-<a href="https://camo.githubusercontent.com/783d4a65a3bff2f3e6203e82ed857cf815a2d093aa9a574252f1a23bf4bc0805/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d706167652e6964" taget="_blank"><img src="https://camo.githubusercontent.com/783d4a65a3bff2f3e6203e82ed857cf815a2d093aa9a574252f1a23bf4bc0805/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d706167652e6964" /></a>
+<div>
 
 <hr>
-### Hi there 👋
-### My name is Boris Zambrano and I live in Ecuador, I´m Full Stack Developer 👋
-
+<h1>Hi there, I'm Boris Zambrano 👋</h1>
+<hr>
+<img src="https://camo.githubusercontent.com/9e8cf5b2a87909486cff9205ac54c2a173136fc3dd06c0f15d19fa140d2594fe/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d627279616e74656e63687526636f6c6f723d627269676874677265656e267374796c653d666f722d7468652d6261646765" />
 <!--
 **borisdavid77/borisdavid77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-💬 Thanks to my specialized training I believe that I can add value in the area in which I develop, able to adapt to changes and constantly learning about new tendencies; organized and with great motivation to give the best of me in any project or task pointed.
+<ul>
+    <li>🔭 I’m currently working on Design Reublik</li>
+    <li>🌱 I’m currently learning as much as I can</li>
+    <li>🎯 2023 Goals: Improve my Frontend skills</li>
+</ul>
+
+<h2>Connect with me</h2>
+<a href="https://www.linkedin.com/in/boris-zambrano-suarez-104b4121a/"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a>
+
+<p>💬 Thanks to my specialized training I believe that I can add value in the area in which I develop, able to adapt to changes and constantly learning about new tendencies; organized and with great motivation to give the best of me in any project or task pointed.</p>
 
 ```js
   const boris = {
@@ -30,6 +28,4 @@ Here are some ideas to get you started:
   }
 ```
 
-- 👯 I’m looking to collaborate on projects of development frontend y backend
-- 🔭 I’m currently working as a freelance
-- 💬 Ask me about ... 
+</div>
