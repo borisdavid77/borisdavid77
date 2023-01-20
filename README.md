@@ -4,6 +4,8 @@
 <h1>Hi there, I'm Boris Zambrano 👋</h1>
 <hr>
 <img src="https://camo.githubusercontent.com/9e8cf5b2a87909486cff9205ac54c2a173136fc3dd06c0f15d19fa140d2594fe/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d627279616e74656e63687526636f6c6f723d627269676874677265656e267374796c653d666f722d7468652d6261646765" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=borisdavid77&label=Profile%20views&color=0e75b6&style=flat" alt="borisdavid77" /> </p>
+
 <!--
 **borisdavid77/borisdavid77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
