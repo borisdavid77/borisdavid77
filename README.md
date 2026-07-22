@@ -108,11 +108,19 @@ I am particularly interested in connecting software development with modern DevO
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="center" style="display:grid; grid: auto / 1fr 1fr;">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=borisdavid77&show_icons=true&theme=github_dark&hide_border=true" alt="Boris Zambrano's GitHub statistics"/>
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borisdavid77&amp;theme=github_dark"
+    alt="Boris Zambrano GitHub Statistics"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisdavid77&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borisdavid77&amp;theme=github_dark"
+    alt="Boris Zambrano Languages by Repository"
+  />
 
 </div>
 
