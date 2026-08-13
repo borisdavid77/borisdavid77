@@ -108,8 +108,6 @@ I am particularly interested in connecting software development with modern DevO
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
