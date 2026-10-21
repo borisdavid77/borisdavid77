@@ -4,7 +4,7 @@
 
 ### Software Developer | Full Stack Development | DevOps Enthusiast
 
-Software developer with **3+ years of experience** building and maintaining web applications, working across frontend, backend, databases, and content management systems.
+Software developer with **4+ years of experience** building and maintaining web applications, working across frontend, backend, databases, and content management systems.
 
 I am currently pursuing a **Master's Degree in DevOps at UNIR**, expanding my knowledge in automation, cloud infrastructure, continuous integration, continuous delivery, monitoring, and modern software deployment practices.
 
